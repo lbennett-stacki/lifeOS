@@ -1,0 +1,55 @@
+name: Deploy Core Web
+
+on:
+  push:
+    branches: main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.12.0
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.pnpm-store
+            ${{ github.workspace }}/modules/core/web/.next/cache
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/pnpm-lock.yaml') }}-${{ hashFiles('modules/core/web/**/*.{js,jsx,ts,tsx}') }}
+          restore-keys: |
+            ${{ runner.os }}-nextjs-${{ hashFiles('**/pnpm-lock.yaml') }}-
+
+      - name: Build Web Core
+        run: pnpm build:core-web
+        env:
+          LLAMA_URL: "http://localhost:5001"
+          CORE_DATABASE_URL: "http://localhost:4001"
+          NEXT_PUBLIC_API_URL: "http://localhost:3001"
+          NODE_ENV: "production"
+          SMTP_HOST: localhost
+          SMTP_PORT: 1025
+          SMTP_USERNAME: mailhog
+          SMTP_PASSWORD: mailhog
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: modules/core/web/out

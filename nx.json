@@ -1,0 +1,28 @@
+{
+  "targetDefaults": {
+    "clean": {
+      "dependsOn": []
+    },
+    "build": {
+      "cache": true,
+      "dependsOn": ["^build", "clean"],
+      "outputs": ["{projectRoot}/dist", "{projectRoot}/out"]
+    },
+    "lint": {
+      "cache": true,
+      "dependsOn": ["build"],
+      "outputs": ["{projectRoot}/src"]
+    },
+    "test": {
+      "cache": true,
+      "dependsOn": ["build"]
+    },
+    "dev": {
+      "dependsOn": ["build"]
+    },
+    "format": {
+      "dependsOn": [],
+      "outputs": ["{projectRoot}/src"]
+    }
+  }
+}

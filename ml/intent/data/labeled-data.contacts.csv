@@ -1,0 +1,81 @@
+text,intent
+"Add a new contact, Luke, their email address is sophia@icloud.com",add_contact
+"I just met someone, their name is Luke, their number is 07555098765",add_contact
+Create a contact for Luke with email sophia@icloud.com,add_contact
+"Save Luke as a contact, their number is 07700112233",add_contact
+"Add Luke to my contacts, their details are luke@gmail.com and 07974023412",add_contact
+"Add a new contact, Emma, their email address is luke@gmail.com",add_contact
+"I just met someone, their name is Emma, their number is 07700112233",add_contact
+Create a contact for Emma with email luke@gmail.com,add_contact
+"Save Emma as a contact, their number is 07555098765",add_contact
+"Add Emma to my contacts, their details are luke@gmail.com and 07974023412",add_contact
+"Add a new contact, John, their email address is john@yahoo.com",add_contact
+"I just met someone, their name is John, their number is 07700112233",add_contact
+Create a contact for John with email sophia@icloud.com,add_contact
+"Save John as a contact, their number is 07700112233",add_contact
+"Add John to my contacts, their details are john@yahoo.com and 07896012345",add_contact
+"Add a new contact, Sophia, their email address is emma@outlook.com",add_contact
+"I just met someone, their name is Sophia, their number is 07555098765",add_contact
+Create a contact for Sophia with email john@yahoo.com,add_contact
+"Save Sophia as a contact, their number is 07700112233",add_contact
+"Add Sophia to my contacts, their details are luke@gmail.com and 07555098765",add_contact
+"Add a new contact, Mike, their email address is emma@outlook.com",add_contact
+"I just met someone, their name is Mike, their number is 07555098765",add_contact
+Create a contact for Mike with email sophia@icloud.com,add_contact
+"Save Mike as a contact, their number is 07555098765",add_contact
+"Add Mike to my contacts, their details are john@yahoo.com and 07700112233",add_contact
+"Add a new contact, Olivia, their email address is emma@outlook.com",add_contact
+"I just met someone, their name is Olivia, their number is 07555098765",add_contact
+Create a contact for Olivia with email luke@gmail.com,add_contact
+"Save Olivia as a contact, their number is 07700112233",add_contact
+"Add Olivia to my contacts, their details are john@yahoo.com and 07896012345",add_contact
+"Add a new contact, James, their email address is john@yahoo.com",add_contact
+"I just met someone, their name is James, their number is 07896012345",add_contact
+Create a contact for James with email john@yahoo.com,add_contact
+"Save James as a contact, their number is 07896012345",add_contact
+"Add James to my contacts, their details are emma@outlook.com and 07555098765",add_contact
+"Add a new contact, Liam, their email address is emma@outlook.com",add_contact
+"I just met someone, their name is Liam, their number is 07896012345",add_contact
+Create a contact for Liam with email luke@gmail.com,add_contact
+"Save Liam as a contact, their number is 07974023412",add_contact
+"Add Liam to my contacts, their details are sophia@icloud.com and 07974023412",add_contact
+What is the email address for my friend Luke?,search_contact
+What are Luke's nicknames?,search_contact
+"I forgot Luke's last name, could you remind me?",search_contact
+When is my friend Luke's birthday again?,search_contact
+Can you find Luke's phone number in my contacts?,search_contact
+What is the email address for my sister Emma?,search_contact
+What are Emma's nicknames?,search_contact
+"I forgot Emma's last name, could you remind me?",search_contact
+When is my sister Emma's birthday again?,search_contact
+Can you find Emma's phone number in my contacts?,search_contact
+What is the email address for my friend John?,search_contact
+What are John's nicknames?,search_contact
+"I forgot John's last name, could you remind me?",search_contact
+When is my mother John's birthday again?,search_contact
+Can you find John's phone number in my contacts?,search_contact
+What is the email address for my manager Sophia?,search_contact
+What are Sophia's nicknames?,search_contact
+"I forgot Sophia's last name, could you remind me?",search_contact
+When is my friend Sophia's birthday again?,search_contact
+Can you find Sophia's phone number in my contacts?,search_contact
+What is the email address for my father Mike?,search_contact
+What are Mike's nicknames?,search_contact
+"I forgot Mike's last name, could you remind me?",search_contact
+When is my brother Mike's birthday again?,search_contact
+Can you find Mike's phone number in my contacts?,search_contact
+What is the email address for my manager Olivia?,search_contact
+What are Olivia's nicknames?,search_contact
+"I forgot Olivia's last name, could you remind me?",search_contact
+When is my friend Olivia's birthday again?,search_contact
+Can you find Olivia's phone number in my contacts?,search_contact
+What is the email address for my mother James?,search_contact
+What are James's nicknames?,search_contact
+"I forgot James's last name, could you remind me?",search_contact
+When is my mother James's birthday again?,search_contact
+Can you find James's phone number in my contacts?,search_contact
+What is the email address for my sister Liam?,search_contact
+What are Liam's nicknames?,search_contact
+"I forgot Liam's last name, could you remind me?",search_contact
+When is my friend Liam's birthday again?,search_contact
+Can you find Liam's phone number in my contacts?,search_contact
