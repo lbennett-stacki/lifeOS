@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "92b240f0-5cfe-429a-aa0f-78915ce09450",
+		"name": "Generate",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "58605"
+	},
+	"item": [
+		{
+			"name": "Generate predict error",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"generatable\": \"\",\n    \"scenario\": \"\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6002/predict",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6002",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Generate predict result",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"generatable\": \"email subject\",\n    \"scenario\": \"Send an email to test-user@life.os telling them I will be late to the annual shareholder meeting because I discovered a delicious cuban sandwich place. I'll be 30 minutes late but get started without me.\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6002/predict",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6002",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

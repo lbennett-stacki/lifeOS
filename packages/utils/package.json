@@ -1,0 +1,33 @@
+{
+  "name": "@lifeos/utils",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "./dist/lib.js",
+  "types": "./dist/lib.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "clean": "rm -rf dist",
+    "lint": "eslint \"src/**/*.ts\" --fix",
+    "dev:tsc": "tsc --watch --preserveWatchOutput",
+    "dev:tsc-alias": "tsc-alias --watch",
+    "dev": "pnpm build && (concurrently \"pnpm dev:tsc\" \"pnpm dev:tsc-alias\")",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.8",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/parser": "^7.18.0",
+    "concurrently": "^9.1.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.4.1",
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.7.2"
+  }
+}
