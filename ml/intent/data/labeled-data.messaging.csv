@@ -1,0 +1,641 @@
+text,intent
+Write to Luke via email: the meeting time has changed,send_email
+Use my email to tell Mike I'll see them soon,send_email
+"Send a mail to Mike, saying the meeting time has changed",send_email
+Email Liam about I'll see them soon,send_email
+Message Mike with the meeting time has changed,send_sms
+Email James about I'm running late,send_email
+"Send a mail to James, saying the meeting time has changed",send_email
+"Send an email to John, say I'll call them later",send_email
+Text Emma saying their appointment details,send_sms
+"Shoot a text to James, saying I'll call them later",send_sms
+Message Liam with my plans for the weekend,send_sms
+"Send a mail to James, saying the weather forecast for tomorrow",send_email
+Text James saying the meeting time has changed,send_sms
+Tell James via SMS: their appointment details,send_sms
+Text Sophia saying I'm running late,send_sms
+"Send an email to Luke, say the meeting time has changed",send_email
+"Send an SMS to Mike, say I'll call them later",send_sms
+Write to Luke via email: their appointment details,send_email
+Tell James via SMS: I'm running late,send_sms
+"Send a mail to James, saying the current time",send_email
+Text Mike saying the current time,send_sms
+Tell Olivia via SMS: the weather forecast for tomorrow,send_sms
+Tell Sophia via SMS: their appointment details,send_sms
+"Send an SMS to Liam, say the weather forecast for tomorrow",send_sms
+Write to John via email: I'll see them soon,send_email
+Message John with the weather forecast for tomorrow,send_sms
+Text Emma saying the weather forecast for tomorrow,send_sms
+Email Liam about the weather forecast for tomorrow,send_email
+"Send a mail to Emma, saying their appointment details",send_email
+Text John saying I'll see them soon,send_sms
+"Shoot a text to Olivia, saying their appointment details",send_sms
+Email John about the current time,send_email
+Email Luke about my plans for the weekend,send_email
+"Send a mail to Mike, saying their appointment details",send_email
+Email Mike about my plans for the weekend,send_email
+Email Emma about I'm running late,send_email
+"Send an SMS to Emma, say my plans for the weekend",send_sms
+Use my email to tell Sophia I'll call them later,send_email
+"Send a mail to Luke, saying the meeting time has changed",send_email
+Message Liam with I'll call them later,send_sms
+"Shoot a text to John, saying the weather forecast for tomorrow",send_sms
+"Send a mail to Emma, saying I'll see them soon",send_email
+"Send an SMS to Mike, say I'll see them soon",send_sms
+Use my email to tell Olivia the meeting time has changed,send_email
+Email Olivia about I'll call them later,send_email
+Email James about my plans for the weekend,send_email
+"Send an SMS to James, say the current time",send_sms
+Tell Luke via SMS: the weather forecast for tomorrow,send_sms
+Text Sophia saying the weather forecast for tomorrow,send_sms
+Email Olivia about I'm running late,send_email
+"Shoot a text to Emma, saying the weather forecast for tomorrow",send_sms
+"Send an email to Luke, say I'll see them soon",send_email
+Message Sophia with I'll call them later,send_sms
+Message Olivia with I'll see them soon,send_sms
+"Send an SMS to Mike, say I'm running late",send_sms
+Tell Emma via SMS: I'll call them later,send_sms
+Tell Mike via SMS: the meeting time has changed,send_sms
+Message Olivia with I'm running late,send_sms
+Email Mike about the weather forecast for tomorrow,send_email
+Tell Olivia via SMS: I'll see them soon,send_sms
+Email Mike about I'm running late,send_email
+"Send a mail to Emma, saying my plans for the weekend",send_email
+"Send a mail to Luke, saying the weather forecast for tomorrow",send_email
+Write to John via email: I'm running late,send_email
+Write to Mike via email: I'll see them soon,send_email
+"Send an SMS to James, say the weather forecast for tomorrow",send_sms
+"Shoot a text to Mike, saying the current time",send_sms
+Write to John via email: the current time,send_email
+Tell John via SMS: I'm running late,send_sms
+Use my email to tell Sophia the current time,send_email
+"Send an email to Luke, say I'll call them later",send_email
+"Send an email to Luke, say the current time",send_email
+"Send a mail to John, saying their appointment details",send_email
+Text John saying I'm running late,send_sms
+Write to Luke via email: I'll see them soon,send_email
+Message Luke with the meeting time has changed,send_sms
+Text Emma saying I'm running late,send_sms
+Tell Sophia via SMS: I'll call them later,send_sms
+Write to Liam via email: the meeting time has changed,send_email
+Message James with the current time,send_sms
+Text Olivia saying the current time,send_sms
+"Shoot a text to Emma, saying I'll see them soon",send_sms
+Use my email to tell Mike their appointment details,send_email
+Use my email to tell Sophia my plans for the weekend,send_email
+Tell Luke via SMS: I'm running late,send_sms
+"Send a mail to John, saying I'll call them later",send_email
+"Send an email to John, say their appointment details",send_email
+Use my email to tell Liam their appointment details,send_email
+Write to James via email: the current time,send_email
+Text Mike saying I'll call them later,send_sms
+Message Mike with I'm running late,send_sms
+Email Olivia about the meeting time has changed,send_email
+"Send an email to Sophia, say I'm running late",send_email
+Email James about the weather forecast for tomorrow,send_email
+"Shoot a text to James, saying the weather forecast for tomorrow",send_sms
+Write to Olivia via email: the meeting time has changed,send_email
+Write to Mike via email: the weather forecast for tomorrow,send_email
+Email Sophia about the meeting time has changed,send_email
+Message Mike with my plans for the weekend,send_sms
+Text James saying I'll call them later,send_sms
+Text Liam saying the current time,send_sms
+Message John with my plans for the weekend,send_sms
+Use my email to tell Emma I'll call them later,send_email
+Message Luke with I'll see them soon,send_sms
+"Send a mail to Mike, saying the current time",send_email
+Write to James via email: I'm running late,send_email
+Message James with my plans for the weekend,send_sms
+Use my email to tell Liam the weather forecast for tomorrow,send_email
+Email John about I'll see them soon,send_email
+Email James about I'll call them later,send_email
+"Send a mail to Sophia, saying their appointment details",send_email
+"Send an email to Liam, say the meeting time has changed",send_email
+"Send an email to Olivia, say the weather forecast for tomorrow",send_email
+"Send an SMS to Liam, say the current time",send_sms
+Message Emma with my plans for the weekend,send_sms
+Tell James via SMS: my plans for the weekend,send_sms
+Write to Sophia via email: the meeting time has changed,send_email
+Use my email to tell James their appointment details,send_email
+"Send an SMS to John, say I'll call them later",send_sms
+"Send a mail to Olivia, saying their appointment details",send_email
+"Shoot a text to Sophia, saying the weather forecast for tomorrow",send_sms
+"Shoot a text to Liam, saying the meeting time has changed",send_sms
+"Send a mail to Liam, saying I'm running late",send_email
+Text John saying the weather forecast for tomorrow,send_sms
+"Send an email to Sophia, say the weather forecast for tomorrow",send_email
+"Send a mail to Mike, saying I'll call them later",send_email
+Use my email to tell Luke the weather forecast for tomorrow,send_email
+Email Emma about I'll see them soon,send_email
+Write to Mike via email: I'll call them later,send_email
+Message Sophia with the current time,send_sms
+"Send an SMS to Luke, say the current time",send_sms
+"Shoot a text to Mike, saying my plans for the weekend",send_sms
+Use my email to tell Liam I'm running late,send_email
+"Shoot a text to Luke, saying I'll call them later",send_sms
+"Send an email to Mike, say my plans for the weekend",send_email
+Use my email to tell Luke I'll see them soon,send_email
+Message Luke with I'm running late,send_sms
+Tell Sophia via SMS: I'm running late,send_sms
+"Send a mail to Luke, saying the current time",send_email
+Email Emma about the weather forecast for tomorrow,send_email
+"Send a mail to Liam, saying I'll see them soon",send_email
+"Send an SMS to Sophia, say I'll see them soon",send_sms
+Write to Emma via email: I'm running late,send_email
+Tell James via SMS: I'll call them later,send_sms
+"Send a mail to Olivia, saying I'll see them soon",send_email
+"Send an email to Liam, say the current time",send_email
+"Shoot a text to Emma, saying I'll call them later",send_sms
+Message John with the current time,send_sms
+"Shoot a text to Mike, saying their appointment details",send_sms
+"Shoot a text to John, saying the meeting time has changed",send_sms
+"Send an SMS to Sophia, say the current time",send_sms
+Email Mike about their appointment details,send_email
+Text Olivia saying I'll see them soon,send_sms
+Use my email to tell James the meeting time has changed,send_email
+Use my email to tell Sophia I'll see them soon,send_email
+Use my email to tell John their appointment details,send_email
+"Send a mail to Olivia, saying my plans for the weekend",send_email
+"Send an SMS to Liam, say I'm running late",send_sms
+Tell Emma via SMS: the current time,send_sms
+"Shoot a text to James, saying I'll see them soon",send_sms
+Email John about my plans for the weekend,send_email
+Use my email to tell Mike I'm running late,send_email
+Message Liam with the meeting time has changed,send_sms
+"Send an email to James, say I'll call them later",send_email
+Text Liam saying I'm running late,send_sms
+Use my email to tell Liam the current time,send_email
+Email Emma about their appointment details,send_email
+Email Olivia about their appointment details,send_email
+"Send an email to Liam, say their appointment details",send_email
+"Send an SMS to Olivia, say I'm running late",send_sms
+Email Sophia about the current time,send_email
+Use my email to tell Liam the meeting time has changed,send_email
+Write to Liam via email: the weather forecast for tomorrow,send_email
+"Send a mail to Mike, saying I'm running late",send_email
+"Send a mail to Mike, saying my plans for the weekend",send_email
+Write to Emma via email: my plans for the weekend,send_email
+Tell Luke via SMS: I'll call them later,send_sms
+Use my email to tell Liam my plans for the weekend,send_email
+Use my email to tell Luke their appointment details,send_email
+Write to Liam via email: I'll call them later,send_email
+"Send an SMS to Liam, say I'll see them soon",send_sms
+Email Mike about the current time,send_email
+Tell Sophia via SMS: my plans for the weekend,send_sms
+"Send a mail to Sophia, saying I'll see them soon",send_email
+Write to James via email: the weather forecast for tomorrow,send_email
+"Send an SMS to Liam, say the meeting time has changed",send_sms
+Text Luke saying the current time,send_sms
+"Send an SMS to John, say my plans for the weekend",send_sms
+Tell Emma via SMS: the meeting time has changed,send_sms
+"Send a mail to Emma, saying the weather forecast for tomorrow",send_email
+"Shoot a text to Luke, saying I'll see them soon",send_sms
+Message Olivia with the current time,send_sms
+"Shoot a text to Sophia, saying I'll see them soon",send_sms
+Write to Olivia via email: I'll see them soon,send_email
+"Shoot a text to John, saying I'll see them soon",send_sms
+Text Liam saying I'll call them later,send_sms
+Message Mike with their appointment details,send_sms
+"Send an SMS to Olivia, say their appointment details",send_sms
+Text Olivia saying the weather forecast for tomorrow,send_sms
+Email Olivia about the current time,send_email
+"Shoot a text to Olivia, saying the weather forecast for tomorrow",send_sms
+Use my email to tell James I'm running late,send_email
+Text James saying I'll see them soon,send_sms
+"Shoot a text to Liam, saying the current time",send_sms
+Text Mike saying I'll see them soon,send_sms
+Write to Emma via email: the meeting time has changed,send_email
+Message John with the meeting time has changed,send_sms
+Email Olivia about my plans for the weekend,send_email
+Tell John via SMS: the current time,send_sms
+"Send an email to Emma, say I'm running late",send_email
+"Send an SMS to Sophia, say my plans for the weekend",send_sms
+"Send a mail to John, saying I'll see them soon",send_email
+Write to Olivia via email: the current time,send_email
+"Send an email to Emma, say I'll see them soon",send_email
+Message Mike with I'll call them later,send_sms
+"Send an email to Mike, say I'll call them later",send_email
+Email Luke about the meeting time has changed,send_email
+Write to Sophia via email: the weather forecast for tomorrow,send_email
+"Send a mail to Sophia, saying the current time",send_email
+Message Luke with their appointment details,send_sms
+"Shoot a text to Luke, saying the meeting time has changed",send_sms
+Message Liam with I'll see them soon,send_sms
+"Send an email to Sophia, say their appointment details",send_email
+"Send an SMS to Olivia, say the weather forecast for tomorrow",send_sms
+Message James with their appointment details,send_sms
+"Shoot a text to Olivia, saying I'll see them soon",send_sms
+Text Luke saying their appointment details,send_sms
+"Send an SMS to Luke, say their appointment details",send_sms
+Email Emma about I'll call them later,send_email
+Email Emma about the meeting time has changed,send_email
+Write to Olivia via email: the weather forecast for tomorrow,send_email
+Tell Liam via SMS: the weather forecast for tomorrow,send_sms
+Text Luke saying my plans for the weekend,send_sms
+Message John with their appointment details,send_sms
+Message Liam with their appointment details,send_sms
+Tell Liam via SMS: the current time,send_sms
+Tell Sophia via SMS: I'll see them soon,send_sms
+"Shoot a text to Mike, saying I'll see them soon",send_sms
+Message Mike with the weather forecast for tomorrow,send_sms
+"Send a mail to James, saying my plans for the weekend",send_email
+"Shoot a text to Sophia, saying their appointment details",send_sms
+Use my email to tell Olivia their appointment details,send_email
+"Send a mail to Sophia, saying the meeting time has changed",send_email
+Message Olivia with their appointment details,send_sms
+"Send an SMS to Luke, say the weather forecast for tomorrow",send_sms
+Write to Mike via email: their appointment details,send_email
+"Shoot a text to Luke, saying the current time",send_sms
+"Shoot a text to Mike, saying the weather forecast for tomorrow",send_sms
+Message Sophia with their appointment details,send_sms
+"Send an email to Sophia, say I'll call them later",send_email
+"Shoot a text to Olivia, saying my plans for the weekend",send_sms
+Message Sophia with the meeting time has changed,send_sms
+"Send an SMS to James, say their appointment details",send_sms
+"Send an email to John, say the weather forecast for tomorrow",send_email
+Tell Mike via SMS: my plans for the weekend,send_sms
+"Send a mail to Liam, saying their appointment details",send_email
+Use my email to tell Luke I'm running late,send_email
+Use my email to tell Olivia I'll see them soon,send_email
+"Send an SMS to James, say I'll call them later",send_sms
+"Shoot a text to Emma, saying my plans for the weekend",send_sms
+Tell John via SMS: my plans for the weekend,send_sms
+Use my email to tell Mike my plans for the weekend,send_email
+Write to Luke via email: I'm running late,send_email
+"Send an email to Olivia, say the meeting time has changed",send_email
+Write to Sophia via email: my plans for the weekend,send_email
+"Send an email to James, say I'm running late",send_email
+Message Liam with the current time,send_sms
+Message Emma with the weather forecast for tomorrow,send_sms
+"Send an SMS to Emma, say I'll call them later",send_sms
+"Send an email to Luke, say my plans for the weekend",send_email
+"Send a mail to Liam, saying the meeting time has changed",send_email
+Write to Luke via email: my plans for the weekend,send_email
+Tell Luke via SMS: I'll see them soon,send_sms
+"Send a mail to Sophia, saying I'll call them later",send_email
+Tell Liam via SMS: I'll see them soon,send_sms
+Use my email to tell Luke I'll call them later,send_email
+Use my email to tell John the current time,send_email
+Email James about I'll see them soon,send_email
+Message James with the weather forecast for tomorrow,send_sms
+Tell Liam via SMS: I'll call them later,send_sms
+"Send an SMS to John, say the weather forecast for tomorrow",send_sms
+"Send a mail to James, saying I'll call them later",send_email
+Text Olivia saying my plans for the weekend,send_sms
+"Send an SMS to Sophia, say their appointment details",send_sms
+"Send an SMS to Luke, say I'll see them soon",send_sms
+Message Sophia with my plans for the weekend,send_sms
+"Send an SMS to Emma, say I'll see them soon",send_sms
+Email Sophia about their appointment details,send_email
+Use my email to tell John the meeting time has changed,send_email
+"Send an email to John, say my plans for the weekend",send_email
+Write to Mike via email: my plans for the weekend,send_email
+Message Liam with the weather forecast for tomorrow,send_sms
+Text Emma saying the current time,send_sms
+Message Mike with the current time,send_sms
+Write to Emma via email: I'll see them soon,send_email
+"Send a mail to Luke, saying my plans for the weekend",send_email
+"Send a mail to John, saying my plans for the weekend",send_email
+"Send an SMS to John, say I'll see them soon",send_sms
+Message John with I'm running late,send_sms
+"Send an SMS to Olivia, say the current time",send_sms
+Write to Emma via email: their appointment details,send_email
+"Shoot a text to Olivia, saying the current time",send_sms
+Text Mike saying the weather forecast for tomorrow,send_sms
+"Shoot a text to Luke, saying their appointment details",send_sms
+"Shoot a text to James, saying their appointment details",send_sms
+Email Liam about I'm running late,send_email
+Tell Mike via SMS: the current time,send_sms
+"Shoot a text to Luke, saying I'm running late",send_sms
+"Send an SMS to Sophia, say the meeting time has changed",send_sms
+Tell Emma via SMS: their appointment details,send_sms
+Use my email to tell Sophia I'm running late,send_email
+"Shoot a text to Luke, saying my plans for the weekend",send_sms
+"Send a mail to Sophia, saying the weather forecast for tomorrow",send_email
+Write to John via email: their appointment details,send_email
+"Send an email to John, say I'm running late",send_email
+Email Mike about I'll see them soon,send_email
+"Send an email to James, say the meeting time has changed",send_email
+"Send a mail to Liam, saying the weather forecast for tomorrow",send_email
+Email Liam about the current time,send_email
+"Send an SMS to Mike, say the weather forecast for tomorrow",send_sms
+"Send a mail to Sophia, saying my plans for the weekend",send_email
+"Send an SMS to Emma, say I'm running late",send_sms
+Use my email to tell Luke the meeting time has changed,send_email
+"Shoot a text to John, saying I'll call them later",send_sms
+"Send an email to Emma, say I'll call them later",send_email
+"Shoot a text to James, saying the current time",send_sms
+Text Liam saying I'll see them soon,send_sms
+"Shoot a text to Sophia, saying my plans for the weekend",send_sms
+"Send an email to Luke, say their appointment details",send_email
+Use my email to tell Mike I'll call them later,send_email
+Tell Olivia via SMS: my plans for the weekend,send_sms
+Tell Liam via SMS: I'm running late,send_sms
+Email John about I'm running late,send_email
+Tell Sophia via SMS: the meeting time has changed,send_sms
+"Send an email to John, say the meeting time has changed",send_email
+"Send an email to Mike, say the weather forecast for tomorrow",send_email
+"Shoot a text to Sophia, saying the meeting time has changed",send_sms
+Email Luke about the weather forecast for tomorrow,send_email
+Text Olivia saying I'll call them later,send_sms
+Text Sophia saying I'll call them later,send_sms
+Text Liam saying the weather forecast for tomorrow,send_sms
+Email Liam about my plans for the weekend,send_email
+"Send an SMS to John, say I'm running late",send_sms
+Text Sophia saying I'll see them soon,send_sms
+"Send a mail to Emma, saying I'll call them later",send_email
+Email Luke about the current time,send_email
+"Send an email to Sophia, say I'll see them soon",send_email
+"Shoot a text to Sophia, saying I'm running late",send_sms
+"Send a mail to Liam, saying I'll call them later",send_email
+Write to John via email: the weather forecast for tomorrow,send_email
+"Send an SMS to Luke, say my plans for the weekend",send_sms
+"Send an SMS to Sophia, say I'll call them later",send_sms
+Use my email to tell John I'll call them later,send_email
+Use my email to tell Sophia the meeting time has changed,send_email
+"Send a mail to Olivia, saying I'll call them later",send_email
+"Send an email to James, say the weather forecast for tomorrow",send_email
+"Shoot a text to Mike, saying the meeting time has changed",send_sms
+"Shoot a text to John, saying I'm running late",send_sms
+Write to Olivia via email: their appointment details,send_email
+Email Olivia about the weather forecast for tomorrow,send_email
+Text Mike saying their appointment details,send_sms
+Message Emma with the meeting time has changed,send_sms
+"Send a mail to Emma, saying the current time",send_email
+Tell Sophia via SMS: the current time,send_sms
+"Shoot a text to Olivia, saying the meeting time has changed",send_sms
+Tell Luke via SMS: their appointment details,send_sms
+Email Liam about the meeting time has changed,send_email
+Write to James via email: I'll call them later,send_email
+"Shoot a text to Emma, saying their appointment details",send_sms
+"Send an email to Olivia, say I'll call them later",send_email
+Write to Liam via email: I'll see them soon,send_email
+"Send an SMS to James, say I'll see them soon",send_sms
+Write to Emma via email: the current time,send_email
+Email Sophia about I'll see them soon,send_email
+Text Luke saying I'll see them soon,send_sms
+"Send an SMS to Luke, say I'll call them later",send_sms
+Use my email to tell John my plans for the weekend,send_email
+"Send an email to Mike, say I'm running late",send_email
+Use my email to tell Emma my plans for the weekend,send_email
+Use my email to tell Olivia the weather forecast for tomorrow,send_email
+Write to Luke via email: I'll call them later,send_email
+Write to Sophia via email: I'll see them soon,send_email
+Tell John via SMS: I'll call them later,send_sms
+Text Sophia saying the meeting time has changed,send_sms
+Text Luke saying I'll call them later,send_sms
+Write to Mike via email: the current time,send_email
+Use my email to tell James I'll call them later,send_email
+Tell Luke via SMS: the meeting time has changed,send_sms
+"Send an email to Liam, say I'll call them later",send_email
+"Send an email to Liam, say I'll see them soon",send_email
+"Send an email to Emma, say the current time",send_email
+"Send an SMS to Liam, say I'll call them later",send_sms
+"Shoot a text to Liam, saying the weather forecast for tomorrow",send_sms
+Tell Liam via SMS: my plans for the weekend,send_sms
+"Send an email to Liam, say the weather forecast for tomorrow",send_email
+Write to Olivia via email: I'll call them later,send_email
+Tell Luke via SMS: the current time,send_sms
+"Send a mail to Emma, saying the meeting time has changed",send_email
+"Shoot a text to Liam, saying I'll see them soon",send_sms
+"Send a mail to Sophia, saying I'm running late",send_email
+"Shoot a text to Olivia, saying I'm running late",send_sms
+"Send an SMS to Emma, say the current time",send_sms
+Tell John via SMS: their appointment details,send_sms
+Write to James via email: their appointment details,send_email
+"Send an email to James, say the current time",send_email
+Write to Sophia via email: I'll call them later,send_email
+Text James saying the current time,send_sms
+Message James with I'll see them soon,send_sms
+"Send a mail to John, saying the meeting time has changed",send_email
+"Send an email to Olivia, say I'll see them soon",send_email
+Message Olivia with the meeting time has changed,send_sms
+Email Emma about my plans for the weekend,send_email
+Text Emma saying my plans for the weekend,send_sms
+Use my email to tell Sophia their appointment details,send_email
+Text James saying I'm running late,send_sms
+"Send an SMS to Mike, say the meeting time has changed",send_sms
+"Send an email to Olivia, say I'm running late",send_email
+"Send a mail to John, saying the current time",send_email
+Use my email to tell Liam I'll call them later,send_email
+Tell James via SMS: the current time,send_sms
+Message Luke with my plans for the weekend,send_sms
+"Send an SMS to Luke, say I'm running late",send_sms
+Email Sophia about I'm running late,send_email
+Use my email to tell Liam I'll see them soon,send_email
+"Send an email to Mike, say I'll see them soon",send_email
+Use my email to tell James I'll see them soon,send_email
+Write to James via email: my plans for the weekend,send_email
+"Send an SMS to Emma, say the meeting time has changed",send_sms
+Message James with I'm running late,send_sms
+Email James about the current time,send_email
+"Send an SMS to Olivia, say I'll call them later",send_sms
+"Send an SMS to James, say the meeting time has changed",send_sms
+Email Mike about I'll call them later,send_email
+"Send a mail to Olivia, saying the current time",send_email
+Tell Olivia via SMS: I'm running late,send_sms
+Use my email to tell Mike the current time,send_email
+"Shoot a text to Emma, saying the current time",send_sms
+Text James saying my plans for the weekend,send_sms
+Use my email to tell Emma the current time,send_email
+Tell Mike via SMS: I'll see them soon,send_sms
+Write to John via email: my plans for the weekend,send_email
+Email Luke about their appointment details,send_email
+"Send an email to Luke, say I'm running late",send_email
+Message John with I'll see them soon,send_sms
+Text Mike saying the meeting time has changed,send_sms
+"Send an email to John, say I'll see them soon",send_email
+"Send a mail to James, saying their appointment details",send_email
+Tell Emma via SMS: I'll see them soon,send_sms
+Text Sophia saying the current time,send_sms
+Text Olivia saying the meeting time has changed,send_sms
+Tell Emma via SMS: I'm running late,send_sms
+Message Emma with their appointment details,send_sms
+"Send a mail to Olivia, saying I'm running late",send_email
+Text Olivia saying I'm running late,send_sms
+Text Luke saying the meeting time has changed,send_sms
+"Send an email to Olivia, say their appointment details",send_email
+Text Luke saying I'm running late,send_sms
+Write to Sophia via email: the current time,send_email
+"Send a mail to Luke, saying I'll see them soon",send_email
+Message Olivia with my plans for the weekend,send_sms
+Write to Mike via email: I'm running late,send_email
+"Shoot a text to Sophia, saying I'll call them later",send_sms
+Write to John via email: I'll call them later,send_email
+Message Emma with I'll call them later,send_sms
+Use my email to tell Emma I'll see them soon,send_email
+Email James about their appointment details,send_email
+Use my email to tell Olivia the current time,send_email
+Use my email to tell Sophia the weather forecast for tomorrow,send_email
+Text James saying their appointment details,send_sms
+"Shoot a text to Luke, saying the weather forecast for tomorrow",send_sms
+Tell Emma via SMS: the weather forecast for tomorrow,send_sms
+"Send an SMS to Sophia, say the weather forecast for tomorrow",send_sms
+"Send an SMS to John, say the current time",send_sms
+Use my email to tell John I'll see them soon,send_email
+"Shoot a text to James, saying the meeting time has changed",send_sms
+Text James saying the weather forecast for tomorrow,send_sms
+Tell John via SMS: I'll see them soon,send_sms
+"Send an email to Liam, say my plans for the weekend",send_email
+Write to Mike via email: the meeting time has changed,send_email
+Tell James via SMS: the meeting time has changed,send_sms
+"Shoot a text to John, saying their appointment details",send_sms
+Email Luke about I'll call them later,send_email
+Use my email to tell John the weather forecast for tomorrow,send_email
+"Send an SMS to Mike, say my plans for the weekend",send_sms
+"Send an email to Luke, say the weather forecast for tomorrow",send_email
+Text John saying my plans for the weekend,send_sms
+"Send an email to Liam, say I'm running late",send_email
+Tell Luke via SMS: my plans for the weekend,send_sms
+Email Sophia about the weather forecast for tomorrow,send_email
+"Send an email to Emma, say their appointment details",send_email
+Text Liam saying their appointment details,send_sms
+"Send a mail to Olivia, saying the meeting time has changed",send_email
+Write to Sophia via email: their appointment details,send_email
+Email James about the meeting time has changed,send_email
+"Send a mail to Mike, saying I'll see them soon",send_email
+Text Liam saying my plans for the weekend,send_sms
+"Shoot a text to Emma, saying I'm running late",send_sms
+"Send an email to Emma, say the meeting time has changed",send_email
+"Shoot a text to John, saying my plans for the weekend",send_sms
+"Send an SMS to Liam, say their appointment details",send_sms
+"Send an SMS to Olivia, say the meeting time has changed",send_sms
+Use my email to tell John I'm running late,send_email
+"Send an email to Emma, say the weather forecast for tomorrow",send_email
+Tell Mike via SMS: their appointment details,send_sms
+Write to Sophia via email: I'm running late,send_email
+Tell Mike via SMS: the weather forecast for tomorrow,send_sms
+Use my email to tell James my plans for the weekend,send_email
+Text Mike saying my plans for the weekend,send_sms
+"Send an email to Mike, say the current time",send_email
+"Send an email to Olivia, say my plans for the weekend",send_email
+Email John about I'll call them later,send_email
+"Shoot a text to Olivia, saying I'll call them later",send_sms
+Tell Olivia via SMS: the current time,send_sms
+Tell James via SMS: I'll see them soon,send_sms
+"Send an SMS to James, say my plans for the weekend",send_sms
+Write to James via email: the meeting time has changed,send_email
+"Send a mail to Olivia, saying the weather forecast for tomorrow",send_email
+"Send a mail to James, saying I'm running late",send_email
+Write to John via email: the meeting time has changed,send_email
+Email John about the weather forecast for tomorrow,send_email
+Write to Olivia via email: my plans for the weekend,send_email
+Text Sophia saying their appointment details,send_sms
+"Shoot a text to James, saying I'm running late",send_sms
+Write to Olivia via email: I'm running late,send_email
+Write to Liam via email: I'm running late,send_email
+Email John about their appointment details,send_email
+Message Emma with the current time,send_sms
+Text John saying the meeting time has changed,send_sms
+Message Olivia with I'll call them later,send_sms
+Email Luke about I'll see them soon,send_email
+Text Liam saying the meeting time has changed,send_sms
+Email Sophia about I'll call them later,send_email
+"Shoot a text to Liam, saying their appointment details",send_sms
+Email Luke about I'm running late,send_email
+"Send a mail to Luke, saying their appointment details",send_email
+Use my email to tell James the weather forecast for tomorrow,send_email
+"Send a mail to Liam, saying the current time",send_email
+Message Olivia with the weather forecast for tomorrow,send_sms
+"Send an email to James, say their appointment details",send_email
+Message Mike with I'll see them soon,send_sms
+"Send an email to Sophia, say the current time",send_email
+Text Sophia saying my plans for the weekend,send_sms
+Text Emma saying the meeting time has changed,send_sms
+Message Luke with I'll call them later,send_sms
+"Shoot a text to Sophia, saying the current time",send_sms
+"Send a mail to Luke, saying I'll call them later",send_email
+"Send an SMS to Emma, say the weather forecast for tomorrow",send_sms
+Email John about the meeting time has changed,send_email
+Message Liam with I'm running late,send_sms
+Email Liam about their appointment details,send_email
+"Send an SMS to John, say the meeting time has changed",send_sms
+Tell Liam via SMS: their appointment details,send_sms
+"Send an email to Olivia, say the current time",send_email
+"Send a mail to Mike, saying the weather forecast for tomorrow",send_email
+"Send an SMS to Emma, say their appointment details",send_sms
+Message Sophia with I'm running late,send_sms
+Message Emma with I'll see them soon,send_sms
+Write to Liam via email: my plans for the weekend,send_email
+Write to Luke via email: the current time,send_email
+"Send an SMS to Liam, say my plans for the weekend",send_sms
+Write to Liam via email: their appointment details,send_email
+Use my email to tell Olivia I'm running late,send_email
+"Send an email to James, say I'll see them soon",send_email
+Text John saying I'll call them later,send_sms
+"Send an email to Sophia, say the meeting time has changed",send_email
+"Shoot a text to Mike, saying I'm running late",send_sms
+"Send a mail to Luke, saying I'm running late",send_email
+Tell Emma via SMS: my plans for the weekend,send_sms
+Message Sophia with I'll see them soon,send_sms
+Message Luke with the current time,send_sms
+Use my email to tell Olivia I'll call them later,send_email
+"Shoot a text to Liam, saying I'm running late",send_sms
+Email Liam about I'll call them later,send_email
+Write to Emma via email: the weather forecast for tomorrow,send_email
+Write to James via email: I'll see them soon,send_email
+Use my email to tell Luke the current time,send_email
+"Send an SMS to Olivia, say I'll see them soon",send_sms
+"Send an email to John, say the current time",send_email
+Text John saying their appointment details,send_sms
+Tell Mike via SMS: I'm running late,send_sms
+Email Sophia about my plans for the weekend,send_email
+Message Luke with the weather forecast for tomorrow,send_sms
+Write to Liam via email: the current time,send_email
+Email Olivia about I'll see them soon,send_email
+Use my email to tell Emma their appointment details,send_email
+"Send an email to James, say my plans for the weekend",send_email
+"Send an email to Mike, say their appointment details",send_email
+Tell Sophia via SMS: the weather forecast for tomorrow,send_sms
+Tell Liam via SMS: the meeting time has changed,send_sms
+Text Luke saying the weather forecast for tomorrow,send_sms
+"Send a mail to John, saying I'm running late",send_email
+"Send a mail to Emma, saying I'm running late",send_email
+"Send an SMS to Luke, say the meeting time has changed",send_sms
+Message John with I'll call them later,send_sms
+Text Emma saying I'll see them soon,send_sms
+Write to Luke via email: the weather forecast for tomorrow,send_email
+Tell Olivia via SMS: their appointment details,send_sms
+"Shoot a text to Emma, saying the meeting time has changed",send_sms
+"Send an SMS to Mike, say the current time",send_sms
+Use my email to tell Emma the meeting time has changed,send_email
+"Send a mail to John, saying the weather forecast for tomorrow",send_email
+Message James with the meeting time has changed,send_sms
+Use my email to tell Emma I'm running late,send_email
+Message Emma with I'm running late,send_sms
+"Shoot a text to James, saying my plans for the weekend",send_sms
+Text Mike saying I'm running late,send_sms
+"Shoot a text to Liam, saying I'll call them later",send_sms
+Use my email to tell James the current time,send_email
+Tell Olivia via SMS: I'll call them later,send_sms
+Use my email to tell Emma the weather forecast for tomorrow,send_email
+Email Emma about the current time,send_email
+"Send an SMS to Olivia, say my plans for the weekend",send_sms
+"Shoot a text to Mike, saying I'll call them later",send_sms
+Write to Emma via email: I'll call them later,send_email
+"Send an SMS to Mike, say their appointment details",send_sms
+"Send an email to Emma, say my plans for the weekend",send_email
+"Send an SMS to James, say I'm running late",send_sms
+Use my email to tell Luke my plans for the weekend,send_email
+Text Emma saying I'll call them later,send_sms
+Tell Olivia via SMS: the meeting time has changed,send_sms
+"Send an email to Sophia, say my plans for the weekend",send_email
+"Send an email to Mike, say the meeting time has changed",send_email
+"Send an SMS to John, say their appointment details",send_sms
+Tell Mike via SMS: I'll call them later,send_sms
+Text Olivia saying their appointment details,send_sms
+Use my email to tell Mike the weather forecast for tomorrow,send_email
+Text John saying the current time,send_sms
+Tell John via SMS: the weather forecast for tomorrow,send_sms
+"Send a mail to Liam, saying my plans for the weekend",send_email
+"Send a mail to James, saying I'll see them soon",send_email
+Use my email to tell Olivia my plans for the weekend,send_email
+Use my email to tell Mike the meeting time has changed,send_email
+Tell John via SMS: the meeting time has changed,send_sms
+Message Sophia with the weather forecast for tomorrow,send_sms
+"Shoot a text to John, saying the current time",send_sms
+Email Mike about the meeting time has changed,send_email
+Tell James via SMS: the weather forecast for tomorrow,send_sms
+"Shoot a text to Liam, saying my plans for the weekend",send_sms
+"Send an SMS to Sophia, say I'm running late",send_sms
+Message James with I'll call them later,send_sms

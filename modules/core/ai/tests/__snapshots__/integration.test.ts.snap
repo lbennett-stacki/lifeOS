@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`modules/core/ai integration tests > DI container resolves agents 1`] = `
+{
+  "datetime": "2/1/2000, 1:01:01 AM",
+}
+`;
+
+exports[`modules/core/ai integration tests > Demo flow A - Send the current time to a contact via email 1`] = `
+{
+  "email": "lukie.bennetto@localhost",
+  "firstName": "Lukie",
+  "id": "1",
+  "lastName": "Bennetto",
+  "middleName": "Frank",
+  "mobile": "+44000000000",
+  "nicknames": [
+    "The Creator",
+    "Luke",
+  ],
+  "relationships": [
+    "creator",
+    "friend",
+    "foe",
+  ],
+}
+`;

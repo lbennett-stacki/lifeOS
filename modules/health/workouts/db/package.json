@@ -1,0 +1,43 @@
+{
+  "name": "@lifeos/health-workout-db",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "./dist/lib.js",
+  "types": "./dist/lib.d.ts",
+  "type": "module",
+  "files": [
+    "dist",
+    "drizzle",
+    "drizzle.config.ts"
+  ],
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "tsc && tsc-alias",
+    "lint": "eslint \"src/**/*.ts\" --fix",
+    "dev:tsc": "tsc --watch --preserveWatchOutput",
+    "dev:tsc-alias": "tsc-alias --watch",
+    "dev": "pnpm build && (concurrently \"pnpm dev:tsc\" \"pnpm dev:tsc-alias\")",
+    "generate": "drizzle-kit generate",
+    "migrate": "drizzle-kit migrate",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "@lifeos/db": "workspace:../../../../packages/db",
+    "drizzle-orm": "^0.35.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.8",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/parser": "^7.18.0",
+    "concurrently": "^9.1.0",
+    "drizzle-kit": "^0.26.2",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.4.1",
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.7.2"
+  }
+}

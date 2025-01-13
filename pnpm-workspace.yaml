@@ -1,0 +1,21 @@
+packages:
+  - modules/core/ai
+  - modules/core/db
+  - modules/core/schemas
+  - modules/core/web
+
+  - modules/health/workouts/db
+
+  - packages/ai
+  - packages/config
+  - packages/db
+  - packages/di
+  - packages/logger
+  - packages/utils
+
+  - tooling/mailhog
+  - tooling/load-testing
+
+  - ml/intent
+  - ml/entity
+  - ml/generate

@@ -1,0 +1,11 @@
+{
+  "name": "@lifeos/ml-intent",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "poetry run main --http"
+  }
+}
