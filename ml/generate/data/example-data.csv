@@ -1,0 +1,68 @@
+task,input,output
+email body,Announce office closure,"Dear all, Please note that the office will be closed on Monday, January 20th, for system maintenance. All employees are expected to work remotely on this day."
+email body,Apologize to Emily for being late and mention tube delays,"Really sorry Emily for the delay. There were complications on the tube, but I’m on my way now and should be there shortly."
+email body,Apologize to the CEO for the project delay,Apologies for Project Delay
+email body,Ask Rachel to provide feedback on the marketing strategy,"Hi Rachel, I’d appreciate it if you could take a look at the marketing strategy and share your feedback. Thanks!"
+email body,Ask for a sick day due to fever,"Hi [Manager], I'm not feeling well today as I have a fever. I'll need to take a sick day to rest and recover. I'll check my emails periodically for anything urgent."
+email body,Ask the IT team to reset the password,Password Reset Request
+email body,Confirm receipt of documents,Thank you for sending the documents. I can confirm I have received them and will review them by end of day. I'll get back to you if I have any questions.
+email body,Follow up on pending invoice,"Hello, I'm following up on invoice #12345 which was due last week. Could you please confirm when we can expect the payment? Let me know if you need any additional information."
+email body,Follow up with the marketing team on the ad campaign results,"Hi Marketing Team, Just following up to check on the results of the recent ad campaign. Let me know if you need anything from me."
+email body,Inform Alex about the extended deadline for the project,"Hi Alex, Please note that the project deadline has been extended to [date]. Let me know if you have any questions."
+email body,Inform clients about the price adjustment starting next month,"Dear Clients, Please be informed of a price adjustment effective [date]. We appreciate your understanding."
+email body,Inform the client about the updated project timeline,"Dear [Client], I wanted to share an update regarding the project timeline. The revised deadline is now [date]."
+email body,Notify HR about the employee onboarding process,"Hi HR Team, Just a heads-up about the onboarding process for our new hire, [Name], starting on [date]."
+email body,Notify Peter about the updated job description,Job Description Update
+email body,Remind Linda about her dentist appointment tomorrow at 2 PM,"Hi Linda, Just a quick reminder about your dentist appointment scheduled for tomorrow at 2 PM. Hope it goes well!"
+email body,Request Jane to finalize the marketing budget,Marketing Budget Finalization Request
+email body,Request approval from the manager for a new budget allocation,"Hi [Manager], Could you please review and approve the budget allocation for [project]? Let me know if you have questions."
+email body,Request deadline extension,"Hi [Manager], Due to some unexpected technical challenges, I need to request a brief extension on the current project deadline. Could we discuss pushing it back by three days?"
+email body,Request status update on project,"Hello team, Could you please provide a status update on the current project? I'd like to know where we stand with the deliverables and if there are any blockers we need to address."
+email body,Schedule a meeting with the client,"Hi [Client], Would you be available for a meeting next week to discuss the project progress? I can offer Tuesday at 2 PM or Wednesday at 10 AM EST. Please let me know what works best for you."
+email body,Schedule performance review,"Hi [Employee], I'd like to schedule your annual performance review for next week. Would Tuesday at 2 PM work for you? We'll need about an hour to discuss your achievements and goals."
+email body,Send a thank-you email to attendees of the webinar,Thank You for Attending the Webinar
+email body,Send an email to Alice telling them I will be late because of tube issues I'll be 10 mins,Really sorry Alice I'm running late due to complications on the underground. I should be there within the next 10 minutes.
+email body,Send an email to David telling them I will be late because of tube issues I'll be 10 mins,Really sorry David I'm running late due to complications on the underground. I should be there within the next 10 minutes.
+email body,Send an email to Jennifer telling them I will be late because of tube issues I'll be 10 mins,Really sorry Jennifer I'm running late due to complications on the underground. I should be there within the next 10 minutes.
+email body,Share project success,"Team, Great news! We've successfully completed the [Project Name] ahead of schedule and under budget. Thank you all for your hard work and dedication."
+email body,Share weekly progress report,"Team, Here's a summary of this week's progress: [Key achievements listed]. We're on track for most deliverables, though there are a few items requiring attention."
+email body,Submit resignation letter,"Dear [Manager], I am writing to formally submit my resignation from my position as [Title], effective two weeks from today. Thank you for the opportunities for growth and development."
+email body,Thank Claire for hosting the event,"Hi Claire, A huge thank you for hosting the event! Your efforts made it a great success."
+email body,Thank the team for their hard work on the recent project,"Hi Team, I just wanted to say a big thank you for all your hard work on the recent project. Great job everyone!"
+email body,Welcome new team member,"Everyone, Please join me in welcoming [Name] to our team! They'll be joining us as [Position] starting next Monday. Let's all help make their transition smooth."
+email body,Write an email thanking a customer for their feedback,"Dear [Customer], Thank you so much for your valuable feedback. It helps us improve and serve you better!"
+email body,Write an email to congratulate Mike on his promotion,"Hi Mike, Congratulations on your well-deserved promotion! Wishing you all the best in your new role."
+email subject,Announce system maintenance window,System Maintenance Notice
+email subject,Announce the product availability to the mailing list,Product Now Available
+email subject,Ask the legal team to review the new contract,Contract Review Request
+email subject,Cancel tomorrow's team meeting,Team Meeting Cancellation Notice
+email subject,Confirm Sam's attendance at the conference,Conference Attendance Confirmation
+email subject,Confirm the venue booking with the events team,Venue Booking Confirmation
+email subject,Congratulate Anna on her work anniversary,Happy Work Anniversary
+email subject,Congratulate Mike on his promotion,Congratulations on Your Promotion
+email subject,Congratulate the team on hitting their sales target,Congratulations on Sales Milestone
+email subject,Inform the team about the server downtime,Server Downtime Notification
+email subject,Invite clients to product launch,You're Invited: Product Launch Event
+email subject,Invite the board members to the annual meeting,Annual Meeting Invitation
+email subject,Let Chris know the meeting location has changed,New Meeting Location
+email subject,Let Sarah know I’ll miss the team lunch today,Missing Team Lunch Today
+email subject,Notify employees about the upcoming training session,Training Session Announcement
+email subject,Notify the finance department about the payment error,Payment Error Notification
+email subject,Remind Alex about submitting the report,Report Submission Reminder
+email subject,Remind Susan about the dentist appointment,Dentist Appointment Reminder
+email subject,Request IT support for laptop issues,IT Support Ticket - Laptop Issues
+email subject,Request Jane to finalize the marketing budget,Marketing Budget Finalization Request
+email subject,Schedule interview with candidate,Interview Schedule: Software Developer Position
+email subject,Schedule team building event,Team Building Event - Save the Date
+email subject,Send a follow-up to the marketing team on the campaign,Marketing Campaign Follow-Up
+email subject,Send a thank-you email to attendees of the webinar,Thank You for Attending the Webinar
+email subject,Send an email to Alice telling them I will be late because of tube issues I'll be 10 mins,Really sorry Alice I'm running late due to complications on the underground. I should be there within the next 10 minutes.
+email subject,Send instructions to the support team for handling complaints,Complaint Handling Instructions
+email subject,Share customer feedback results,Customer Feedback Survey Results
+email subject,Share meeting minutes with attendees,Meeting Minutes - Strategy Session
+email subject,Thank Jonathan for his assistance with the project,Thanks for Your Help
+email subject,Update clients about our holiday hours,Holiday Hours Notification
+email subject,Update the client on project milestones,Project Milestone Update
+email subject,Write a thank you email to a client for their feedback,Thank You for Your Feedback
+email subject,Write an email to the team announcing the new hire,Welcome to the Team!
+email subject,Write to Emily about rescheduling the meeting,Rescheduling the Meeting

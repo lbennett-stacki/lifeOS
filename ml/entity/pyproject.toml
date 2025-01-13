@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "lifeos-ml-entity"
+version = "0.0.0"
+description = ""
+authors = ["Luke Bennett"]
+license = "UNLICENSED"
+package-mode = false
+
+[tool.poetry.dependencies]
+accelerate = "^1.2.1"
+argparse = "^1.4.0"
+datasets = "^3.2.0"
+pandas = "^2.2.3"
+python = "^3.12"
+torch = "^2.5.1"
+transformers = "^4.47.1"
+seqeval = "^1.2.2"
+matplotlib = "^3.10.0"
+uvicorn = "^0.34.0"
+fastapi = "^0.115.6"
+asyncio = "^3.4.3"
+
+[tool.poetry.scripts]
+main = "lifeos_ml_entity.main:main"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

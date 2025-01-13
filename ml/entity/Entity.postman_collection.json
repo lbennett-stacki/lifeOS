@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "67ed9ccd-7846-4573-84d8-c02d93fec8f9",
+		"name": "Entity",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "58605"
+	},
+	"item": [
+		{
+			"name": "Entity predict error",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"input\": \"\",\n    \"type\": \"email\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6001/predict",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6001",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Entity predict result",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"input\": \"Send an email to test-user@life.os\",\n    \"type\": \"email\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:6001/predict",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "6001",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

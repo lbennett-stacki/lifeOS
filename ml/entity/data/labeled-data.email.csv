@@ -1,0 +1,504 @@
+token,tag
+Send email to Sarah at,O
+sarah@example.com,B-email
+token,tag
+Please add a new contact with,O
+newguy@company.org,B-email
+as soon as possible,O
+token,tag
+Forward my messages to,O
+john.doe@university.edu,B-email
+token,tag
+Search for a contact by email,O
+marcus_wong88@webmail.net,B-email
+and text him,O
+token,tag
+Send a reminder email to,O
+reminder123@notify.me,B-email
+token,tag
+Draft an email for Emily at,O
+emily@workspace.com,B-email
+token,tag
+Add Jane's email,O
+jane_doe12@sample.org,B-email
+in the contact list,O
+token,tag
+Let me know if you can reach,O
+sam2024@domain.net,B-email
+token,tag
+Check if we have an address for,O
+mario@plumber.io,B-email
+token,tag
+Send a quick update to,O
+support@mycompany.com,B-email
+thanks,O
+token,tag
+Email Mr. Thomson at,O
+mr.thomson@corporate.com,B-email
+token,tag
+Message that contact,O
+sonia-medical@clinic.org,B-email
+they are waiting,O
+token,tag
+Could you attach the file and send to,O
+uploadteam@fileshare.co,B-email
+token,tag
+Send birthday greetings to,O
+bday_friend@celebrate.com,B-email
+today please,O
+token,tag
+Update the contact with,O
+harper@contacts.org,B-email
+token,tag
+Add a new appointment with,O
+doctor@healthcare.net,B-email
+tomorrow morning,O
+token,tag
+Send the invoice to,O
+billing@financesvc.com,B-email
+token,tag
+Let me see if we have an email for,O
+teamlead@project.co,B-email
+token,tag
+Send an urgent note to,O
+urgent_inbox@notify.org,B-email
+right now,O
+token,tag
+Create a new user with the address,O
+admin@portal.xyz,B-email
+token,tag
+You should forward the meeting notes to,O
+meetinghost@conference.com,B-email
+token,tag
+Find a contact for,O
+networking@global.biz,B-email
+token,tag
+He said his email is,O
+gavindoe@someplace.org,B-email
+token,tag
+Double-check the email,O
+doublecheck@verification.co,B-email
+token,tag
+Link the email,O
+newsletter@updates.info,B-email
+to the mailing list,O
+token,tag
+Send a push notification to,O
+pushuser123@notify.net,B-email
+token,tag
+Prepare a follow-up for,O
+michael@engineering.dev,B-email
+token,tag
+Push out the code to,O
+repo@versioncontrol.io,B-email
+token,tag
+Email the legal doc to,O
+legaldept@lawfirm.biz,B-email
+today,O
+token,tag
+Send a text message about discount to,O
+discounted@promotions.org,B-email
+token,tag
+Forward group invitation to,O
+group-invite@chatapp.com,B-email
+ASAP,O
+token,tag
+They left their email as,O
+leftover@unknown.net,B-email
+token,tag
+Add to contact list,O
+mybuddy@friendmail.com,B-email
+for future reference,O
+token,tag
+Reach out to the new vendor at,O
+sales@vendorhub.io,B-email
+token,tag
+Update the board members at,O
+board@enterprise.net,B-email
+token,tag
+Could you check the mailing list for,O
+premium@members.co,B-email
+token,tag
+He uses,O
+johnny.alpha@space.org,B-email
+for personal,O
+token,tag
+Compose a request for,O
+contract@lawoffice.me,B-email
+token,tag
+Send invitation to,O
+invite@eventplanner.co,B-email
+on Tuesday,O
+token,tag
+Store contact info for,O
+bestclient@vipmail.biz,B-email
+token,tag
+Email address is,O
+friendly.user@appmail.com,B-email
+token,tag
+Add a note to contact,O
+mark.z@servercloud.dev,B-email
+token,tag
+Send sms to the user with address,O
+phoneconvert@messaging.org,B-email
+token,tag
+I want to send pictures to,O
+portfolio@designershub.io,B-email
+token,tag
+Archive anything sent to,O
+archive_me@oldmail.com,B-email
+token,tag
+Check the spam folder for,O
+spamcatcher@trashmail.xyz,B-email
+token,tag
+Schedule an email for,O
+timed.send@reminder.me,B-email
+token,tag
+Draft a job inquiry email to,O
+jobs@hiringportal.co,B-email
+immediately,O
+token,tag
+Send my itinerary to,O
+travelbuddy@trips.com,B-email
+token,tag
+We need to add this email,O
+contact_us@feedback.io,B-email
+token,tag
+Re-check the address,O
+verify@recheck.org,B-email
+token,tag
+Find contact details for,O
+theodore@empire.tv,B-email
+and call him,O
+token,tag
+Please forward everything to,O
+admin@helpdesk.ai,B-email
+token,tag
+Send the report draft to,O
+editor@publishing.net,B-email
+for review,O
+token,tag
+Update the webmaster at,O
+webmaster@sitework.dev,B-email
+about changes,O
+token,tag
+The guest speaker's address is,O
+speaker@conference.org,B-email
+for tomorrow,O
+token,tag
+Share the results with,O
+researcher@institute.edu,B-email
+token,tag
+Contact the IT department at,O
+techsupport@systems.net,B-email
+urgently,O
+token,tag
+Register the new intern,O
+intern2024@company.net,B-email
+in the system,O
+token,tag
+The client's preferred contact is,O
+preferred.client@bigcorp.org,B-email
+for meetings,O
+token,tag
+Can you notify,O
+event.coordinator@venue.com,B-email
+token,tag
+Add this researcher,O
+scientist@laboratory.edu,B-email
+to the project,O
+token,tag
+The consultant uses,O
+expert.advice@consulting.biz,B-email
+primarily,O
+token,tag
+Schedule interview with candidate at,O
+applicant@jobsearch.net,B-email
+token,tag
+The new supplier's contact is,O
+supply.chain@inventory.co,B-email
+token,tag
+Connect with the mentor at,O
+mentor@guidance.org,B-email
+this week,O
+token,tag
+The workshop instructor's email is,O
+instructor@workshop.edu,B-email
+token,tag
+Please schedule a call with,O
+schedulebuddy@calendar.org,B-email
+by next week,O
+token,tag
+Send out invites to the new members at,O
+membership@newgroup.net,B-email
+token,tag
+Contact the development team lead at,O
+devteamlead@softwarehouse.io,B-email
+token,tag
+Make sure to attach a note for,O
+attachment@files.host,B-email
+token,tag
+Check if there's a user with email,O
+usernameX@domainalias.me,B-email
+token,tag
+Send a reminder about the upcoming release to,O
+releasenotice@updates.co,B-email
+token,tag
+Let me see if we have details about,O
+unknown.contact@noaddress.xyz,B-email
+token,tag
+Could you verify this email belongs to,O
+verifier@securitycheck.io,B-email
+token,tag
+We might need to confirm with,O
+confirmation@validate.net,B-email
+token,tag
+Update the investor contact for,O
+investor@capitalfund.biz,B-email
+soon,O
+token,tag
+mr.thomson@example.net,B-email
+token,tag
+Can you forward the draft to,O
+project_lead@startup.io,B-email
+today?,O
+token,tag
+We need a follow-up with,O
+consultant.team@bigagency.co,B-email
+token,tag
+Please set up a group chat with,O
+team_alpha@somewhere.org,B-email
+and loop me in,O
+token,tag
+Send the summary report to,O
+reporting@analytics.ai,B-email
+right away,O
+token,tag
+Create a new contact for,O
+lily.flower@personalmail.co,B-email
+token,tag
+Could you copy me on the message sent to,O
+cc_myself@myinbox.net,B-email
+token,tag
+We should notify,O
+johnny.appleseed@orchard.com,B-email
+about the delay,O
+token,tag
+Add this email to our newsletter list,O
+subscribe_me@updates.com,B-email
+token,tag
+Invite the following address to the meeting,O
+guest_speaker@conference.io,B-email
+please,O
+token,tag
+Send the final notice to,O
+reminder@finance.gov,B-email
+by Monday,O
+token,tag
+Schedule a meeting with our advisor,O
+prof.smith123@university.edu,B-email
+for next week,O
+token,tag
+The technical support team at,O
+helpdesk@tech-corp.co.uk,B-email
+will assist you,O
+token,tag
+Add this freelancer's contact:,O
+designer.1995@freelance.net,B-email
+token,tag
+The customer complaint from,O
+angry_customer_2024@gmail.com,B-email
+needs immediate attention,O
+token,tag
+Register this address:,O
+newsletter.signup@mailing-list.info,B-email
+for weekly updates,O
+token,tag
+The IT department,O
+it.support@company-global.com,B-email
+handles all security issues,O
+token,tag
+Please forward the invoice to,O
+accounts_payable@finance.biz,B-email
+by end of day,O
+token,tag
+Our new intern's email is,O
+intern2024@department.org,B-email
+please add them,O
+token,tag
+The overseas office,O
+branch.tokyo@international.co.jp,B-email
+sent the reports,O
+token,tag
+Contact our legal team at,O
+legal_department@lawfirm.legal,B-email
+regarding the contract,O
+token,tag
+The marketing coordinator,O
+social.media@marketing.agency,B-email
+needs the assets,O
+token,tag
+Send the application to,O
+hiring-manager@careers.jobs,B-email
+with your resume,O
+token,tag
+The system administrator,O
+admin_2024@systems.tech,B-email
+will reset your password,O
+token,tag
+Our AI researcher,O
+ml.scientist@research.ai,B-email
+published new findings,O
+token,tag
+The project manager,O
+pm_lead@agile-team.dev,B-email
+requested an update,O
+token,tag
+Contact the warehouse at,O
+shipping_dept@logistics.supply,B-email
+for tracking info,O
+token,tag
+The regional director,O
+director.europe@global.corp,B-email
+approved the budget,O
+token,tag
+Send the newsletter to,O
+subscribers-all@mailing.news,B-email
+this afternoon,O
+token,tag
+The customer service rep,O
+support_247@help-center.care,B-email
+is on duty,O
+token,tag
+Add our new partner,O
+partnership@business.ventures,B-email
+to the distribution list,O
+token,tag
+The quality assurance team,O
+qa.testing@software.dev,B-email
+found some bugs,O
+token,tag
+Schedule training with,O
+instructor_main@learning.edu,B-email
+next month,O
+token,tag
+The compliance officer,O
+compliance2024@regulatory.gov,B-email
+needs these forms,O
+token,tag
+Our cloud architect,O
+cloud.engineer@infrastructure.cloud,B-email
+deployed the update,O
+token,tag
+Forward the invitation to,O
+client_service@corporate.com,B-email
+token,tag
+Could you follow up with,O
+partners@innovationhub.org,B-email
+to confirm the schedule?,O
+token,tag
+We need to share this document with,O
+review_committee@university.edu,B-email
+as part of their review,O
+token,tag
+Please add this email to our project mailing list,O
+project_team@development.net,B-email
+before sending updates,O
+token,tag
+Notify,O
+legal_notices@lawfirm.com,B-email
+about the contract changes,O
+token,tag
+accounts@ecommerce.biz,B-email
+before the end of the day,O
+token,tag
+Schedule a meeting with,O
+board_members@organization.org,B-email
+next week,O
+token,tag
+Please CC,O
+admin_support@operations.co,B-email
+on all correspondence regarding this issue,O
+token,tag
+Add this address to the ticket system,O
+helpdesk@companysolutions.com,B-email
+token,tag
+Include,O
+pr_team@brandingagency.com,B-email
+in the campaign proposal discussion,O
+token,tag
+Reach out to,O
+info@startupfoundry.com,B-email
+for a partnership opportunity,O
+token,tag
+Send the contract details to,O
+contractor_contact@builders.co,B-email
+token,tag
+Reply to,O
+team_support@serviceplatform.io,B-email
+to confirm the delivery date,O
+token,tag
+Please notify,O
+emergency_contact@alerts.com,B-email
+in case of any issues,O
+token,tag
+Loop in,O
+event_planner@partyevents.com,B-email
+to finalize the event agenda,O
+token,tag
+We need to inform,O
+team_leads@strategicgroup.org,B-email
+about the meeting schedule,O
+token,tag
+Send a welcome email to,O
+new_member@communitynetwork.com,B-email
+as part of the onboarding process,O
+token,tag
+Forward the presentation slides to,O
+speaker_presentation@conference.io,B-email
+before the session,O
+token,tag
+Add,O
+feedback@surveyresponses.com,B-email
+to the distribution list for this survey,O
+token,tag
+Please share the file with,O
+project_sponsors@investmentgroup.biz,B-email
+before the review meeting,O
+token,tag
+Contact,O
+editorial_team@magazinepublisher.org,B-email
+to discuss the article submission,O
+token,tag
+Could you include,O
+hr_recruitment@companyjobs.co,B-email
+in the job posting email?,O
+token,tag
+Inform,O
+research_team@academia.edu,B-email
+about the grant application deadline,O
+token,tag
+Direct this inquiry to,O
+customer_queries@onlineshop.net,B-email
+for a faster response,O
+token,tag
+Loop,O
+team_alpha@developmentlab.org,B-email
+into the current email thread,O
+token,tag
+Update,O
+project_updates@teamwork.io,B-email
+on the latest status,O
+token,tag
+Share the proposal with,O
+business_partners@ventures.cap,B-email
+token,tag
+billing_support@paymentsolutions.com,B-email
+of the payment status update,O
+token,tag
+Add to the newsletter,O
+subscribe@dailyupdates.org,B-email
+right after the meeting,O
+token,tag
+security_team@networkadmin.org,B-email
+if you notice any anomalies,O
