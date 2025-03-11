@@ -7,7 +7,7 @@
     - AI - Core AI service serving as the entry point for most AI interactions
     - DB - Core database storing accounts and sessions
     - Schemas - Data validation schemas
-    - Web - Core Web UI client
+    - Web - Core Web UI client test
   - Health
     - Workouts
       - DB - Workouts database storing exercises, workouts, plans
